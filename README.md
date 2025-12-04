@@ -41,3 +41,24 @@ This collection includes sample models from older papers and several subdirector
 + **compl**: Sample complementarity problems documented in papers about expressing complementarity problems in algebraic modeling languages.
 
 + Classic models like DIST, EGYPT, and various production planning problems with multiple data instances.
+
+## [Vanderbei's Nonlinear Optimization Models](https://vanderbei.princeton.edu/ampl/nlmodels/)
+This collection includes various problem categories with graphical visualizations and 3D models, covering antenna array synthesis, the brachistochrone problem, catenary problems, data envelopment analysis, FIR filter design, and many other applications. The collection also includes the CUTE test set problems translated to AMPL format.
+
+
+## [COCONUT Benchmark](https://arnold-neumaier.at/glopt/coconut/Benchmark/Benchmark.html)
+
+The COCONUT benchmark is a test set for continuous global optimization problems. Library 2 specifically consists of global optimization problems from the CUTE subcollection of Nonlinear Optimization Models in AMPL, collected by Bob Vanderbei.
+
+
+## [MINLPLib (Mixed-Integer Nonlinear Programming Library)](https://www.minlplib.org/)
+
+Since 2001, MINLPLib has provided algorithm developers with a large and varied set of both theoretical and practical test models. The primary format is GAMS, but instances are provided in multiple formats including AMPL where conversion is possible. The collection includes a translation server that can transform models from GAMS format into other formats including AMPL
+
+
+## [AMPL Global Optimization Test Set](https://github.com/ampl/global-optimization?tab=readme-ov-file)
+Available on GitHub, this collection includes multiple problem sets: CSP (constraint satisfaction test problems), CUTE test set, GLOBAL library, Hansen's univariate Lipschitz optimization problems, models by János D. Pintér, and models from the AMPL repository on Netlib with modifications.
+
+## [MIPLIB (Mixed Integer Programming Library)](https://miplib.zib.de/)
+
+MIPLIB 2017 is the sixth edition of the standard library for mixed integer programming, containing 1065 instances with a benchmark subset of 240 instances specifically selected for solver performance testing. Many MIPLIB instances were originally modeled through AMPL, and some contributors provided model files in AMPL format. While primarily in MPS format, AMPL models exist for many problems.
