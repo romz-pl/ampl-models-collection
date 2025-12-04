@@ -27,8 +27,17 @@ AMPL models form the book: R. Fourer, D.M. Gay, B.W. Kernighan [AMPL: A Modeling
 
 MacMINLP page contains a collection of Mixed Integer Nonlinear Programming (MINLP) test problems in AMPL.
 
-## [COPS](https://www.mcs.anl.gov/~more/cops/) Large-Scale Optimization Problems
+## [COPS Large-Scale Optimization Problems](https://www.mcs.anl.gov/~more/cops/)
 
 The primary purpose of this collection is to provide difficult test cases for optimization software. Problems in the current version of the collection come from fluid dynamics, population dynamics, optimal design, mesh smoothing, and optimal control. 
 
 
+## [NETLIB AMPL Models Collection](https://netlib.org/ampl/models/)
+
+This collection includes sample models from older papers and several subdirectories:
+
++ **nlmodels**: A collection of nonlinear programming test problems assembled by Elena Bobrovnikova, including problems from the Hock-Schittkowski collection and various benchmark problems like Rosenbrock, Powell, and others
+
++ **compl**: Sample complementarity problems documented in papers about expressing complementarity problems in algebraic modeling languages.
+
++ Classic models like DIST, EGYPT, and various production planning problems with multiple data instances.
