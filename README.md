@@ -66,3 +66,29 @@ This directory contains a collection of Mathematical Programs with Equilibrium C
 
 ## [MacMINLP (Mixed Integer Nonlinear Programming )](https://wiki.mcs.anl.gov/leyffer/index.php/MacMINLP)
 MacMINLP page contains a collection of Mixed Integer Nonlinear Programming (MINLP) test problems in AMPL.
+
+
+## [AMPL problems from Robert Vanderbei's webpage](https://github.com/mpf/Optimization-Test-Problems)
+The CUTEst collection (successor to CUTEr) is available in AMPL format. The Constrained and Unconstrained Testing Environment contains test problems for linear and nonlinear optimization. This is one of the most widely-used standard test sets in the optimization community.
+
+
+## [Derivative-Free Optimization (DFO) Test Problems](https://sahinidis.coe.gatech.edu/dfo)
+This collection provides test problems in multiple formats including GAMS and C/Fortran, with models from GLOBALLib and PrincetonLib available in C source code. The benchmarking collection includes source files for 22 CUTEr problems in both Fortran and MATLAB, designed specifically for derivative-free optimization testing.
+
+
+## [QPLIB (Quadratic Programming Library)](https://qplib.zib.de/)
+QPLIB provides 319 discrete and 134 continuous quadratic programming instances in multiple formats including AMPL (.mod), GAMS (.gms), CPLEX (.lp), and a specialized QPLIB format. The library was created by extending scripts initially developed for MINLPLib and offers instances with rich metadata.
+
+
+## [Revised Hock and Schittkowski models](https://www.stfmc.de/fmc/rhs/x/tlf.html)
+The revised Hock-Schittkowski models are available in AMPL, APM, FMCMAC, and FMCMAP formats with high-quality reference results. 
+
+
+## [OR-Library (Operations Research Library)](https://www.brunel.ac.uk/~mastjjb/jeb/info.html)
+OR-Library is a collection of test data sets for a variety of Operations Research problems, originally described by J.E. Beasley. The library includes problems across numerous categories including capacitated facility location, bin-packing, vehicle routing, assignment, graph coloring, frequency assignment, data envelopment analysis, and many others. 
+
+
+## [SteinLib (Steiner Tree Problem Library)](https://steinlib.zib.de/steinlib.php)
+SteinLib is a library of data sets for the Steiner tree problem in graphs, extending former libraries with many new interesting and difficult instances, most arising from real-world applications. The library collects freely available instances of Steiner tree problems in graphs and variants, providing information about their origins, solvability and characteristics.
+
+
