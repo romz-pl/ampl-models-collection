@@ -21,6 +21,10 @@ AMPL is widely used in operations research, supply chain optimization, productio
 AMPL models form the book: R. Fourer, D.M. Gay, B.W. Kernighan [AMPL: A Modeling Language for Mathematical Programming](https://ampl.com/wp-content/uploads/BOOK.pdf), 2003
 
 
+## [AMPL Optimization Tests](https://github.com/ampl)
+The AMPL global-optimization repository on GitHub includes constraint satisfaction test problems with polynomial systems, including chemical equilibrium problems and other polynomial optimization test cases. These problems are part of a broader collection that includes multiple problem sets designed for testing global optimization solvers. 
+
+
 ## [COPS Large-Scale Optimization Problems](https://www.mcs.anl.gov/~more/cops/)
 The primary purpose of this collection is to provide difficult test cases for optimization software. Problems in the current version of the collection come from fluid dynamics, population dynamics, optimal design, mesh smoothing, and optimal control. 
 
@@ -90,5 +94,16 @@ OR-Library is a collection of test data sets for a variety of Operations Researc
 
 ## [SteinLib (Steiner Tree Problem Library)](https://steinlib.zib.de/steinlib.php)
 SteinLib is a library of data sets for the Steiner tree problem in graphs, extending former libraries with many new interesting and difficult instances, most arising from real-world applications. The library collects freely available instances of Steiner tree problems in graphs and variants, providing information about their origins, solvability and characteristics.
+
+
+## [Maros-Mészáros Quadratic Programming Test Set](https://github.com/qpsolvers/maros_meszaros_qpbenchmark)
+The Maros-Mészáros test set is a collection of 138 convex quadratic programming examples from various sources, available in QPS format which is a subset of the SIF format used by CUTEst. The problems are classified according to the CUTE classification system and have been reformatted for consistency, with problems organized from the CUTE library, Brunel optimization group, and miscellaneous sources
+
+
+## [Hans Mittelmann's Benchmark Problem Sets](https://plato.asu.edu/bench.html)
+Hans Mittelmann maintains extensive benchmark collections at plato.asu.edu/bench.html covering various optimization problem classes including AMPL-NLP benchmarks, mixed integer QPs and QCPs, QPLIB benchmarks (binary/discrete/continuous, convex/non-convex), and MINLP benchmarks. These benchmarks test state-of-the-art solvers on over 1000 test problems in up to 1000 variables, with problems available online in AMPL format and translators available through the COCONUT environment.
+
+
+
 
 
