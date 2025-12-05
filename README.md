@@ -104,6 +104,7 @@ The Maros-Mészáros test set is a collection of 138 convex quadratic programmin
 Hans Mittelmann maintains extensive benchmark collections at plato.asu.edu/bench.html covering various optimization problem classes including AMPL-NLP benchmarks, mixed integer QPs and QCPs, QPLIB benchmarks (binary/discrete/continuous, convex/non-convex), and MINLP benchmarks. These benchmarks test state-of-the-art solvers on over 1000 test problems in up to 1000 variables, with problems available online in AMPL format and translators available through the COCONUT environment.
 
 
-
+## [CMU-IBM Cyber-Infrastructure for MINLP collaborative site](https://www.minlp.org/)
+This collaborative site has as a major goal to promote the optimization of linear and nonlinear models with one or several alternative model formulations involving discrete and continuous variables through mixed-integer nonlinear programming (MINLP), or generalized disjunctive programming (GDP).
 
 
