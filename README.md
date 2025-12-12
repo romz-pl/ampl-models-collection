@@ -108,3 +108,7 @@ Hans Mittelmann maintains extensive benchmark collections at plato.asu.edu/bench
 This collaborative site has as a major goal to promote the optimization of linear and nonlinear models with one or several alternative model formulations involving discrete and continuous variables through mixed-integer nonlinear programming (MINLP), or generalized disjunctive programming (GDP).
 
 
+## [Amsterdam Optimization Modeling Group](https://www.amsterdamoptimization.com/)
+We provide services related to Mathematical Programming (optimization) models and their application to real world problems. Some of our areas of expertise are: Scheduling and planning; Database connectivity; Statistics, regression; Math programming techniques; Packaging optimization applications; Benchmark models; Project Visuals.
+
+
