@@ -112,3 +112,7 @@ This collaborative site has as a major goal to promote the optimization of linea
 We provide services related to Mathematical Programming (optimization) models and their application to real world problems. Some of our areas of expertise are: Scheduling and planning; Database connectivity; Statistics, regression; Math programming techniques; Packaging optimization applications; Benchmark models; Project Visuals.
 
 
+## [SAS Optimization Examples](https://github.com/sassoftware/optimization-examples)
+Running this code requires a SAS environment and a license for SAS/OR or SAS Optimization for Viya. Some of the examples can also be run on Viya using the runOptmodel action.
+
+
