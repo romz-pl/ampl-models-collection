@@ -118,3 +118,7 @@ Running this code requires a SAS environment and a license for SAS/OR or SAS Opt
 
 ## [GOR Gesellschaft für Operations Research e.V.](https://www.gor-ev.de/arbeitsgruppen/praxis-der-mathematischen-optimierung/practice-of-mathopt)
 Practice of Mathematical Optimization. The working group’s objective is to promote mathematical optimization and its application in real world situations. It encourages and supports the communication and exchange of ideas among practitioners in industry, researchers, and commercial solution providers.
+
+
+## [LINDO System Inc. Models Library](https://lindo.com/index.php/application-models-library)
+Application Models Library. Now you can see what our products can do for you with examples from a wide variety of applications. Sample models for LINDO, LINGO, and What'sBest! are available here to view or to download. 
