@@ -116,3 +116,5 @@ We provide services related to Mathematical Programming (optimization) models an
 Running this code requires a SAS environment and a license for SAS/OR or SAS Optimization for Viya. Some of the examples can also be run on Viya using the runOptmodel action.
 
 
+## [GOR Gesellschaft für Operations Research e.V.](https://www.gor-ev.de/arbeitsgruppen/praxis-der-mathematischen-optimierung/practice-of-mathopt)
+Practice of Mathematical Optimization. The working group’s objective is to promote mathematical optimization and its application in real world situations. It encourages and supports the communication and exchange of ideas among practitioners in industry, researchers, and commercial solution providers.
